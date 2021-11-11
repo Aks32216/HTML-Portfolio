@@ -1,0 +1,37 @@
+body{
+  font-family: 'MedievalSharp', cursive;
+  background-color: #C8C6C6;
+
+}
+
+
+img{
+  border-radius: 70%;
+
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+hr{
+  width: 90%;
+  margin-left: 0px;
+  border: 2px solid black;
+}
+hr.left{
+  text-align: left;
+}
+
+th{
+  color: #506D84;
+}
+
+h2{
+  color: #506D84;
+}
+
+h2:hover{
+  text-decoration: underline;
+}
